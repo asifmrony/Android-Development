@@ -200,42 +200,42 @@
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="3dp"
-                android:src="@drawable/a"/>
+                android:src="@drawable/c"/>
             <ImageView
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="3dp"
-                android:src="@drawable/b"/>
+                android:src="@drawable/d"/>
             <ImageView
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="3dp"
-                android:src="@drawable/a"/>
+                android:src="@drawable/c"/>
             <ImageView
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="3dp"
-                android:src="@drawable/b"/>
+                android:src="@drawable/d"/>
             <ImageView
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="3dp"
-                android:src="@drawable/a"/>
+                android:src="@drawable/c"/>
             <ImageView
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="3dp"
-                android:src="@drawable/b"/>
+                android:src="@drawable/d"/>
             <ImageView
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="3dp"
-                android:src="@drawable/a"/>
+                android:src="@drawable/c"/>
             <ImageView
                 android:layout_width="80dp"
                 android:layout_height="80dp"
                 android:layout_margin="3dp"
-                android:src="@drawable/b"/>
+                android:src="@drawable/d"/>
         </LinearLayout>
         </HorizontalScrollView>
 
